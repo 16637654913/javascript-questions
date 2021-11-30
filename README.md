@@ -43,7 +43,39 @@ Feel free to reach out to me! 😊 <br />
 </details>
 
 ---
-#farron's mistakes
+##farron's mistakes
+8
+33
+35
+38
+40
+44，71看看yield,promise
+46
+49 看看parseInt
+50
+53
+56
+57
+61object.defineProperty
+64
+67
+68
+74
+78
+89
+94
+97
+98
+100
+102
+108
+112map类型，object.seal等原生方法
+121
+128
+136
+139
+142
+150
 ###### 1. What's the output?
 
 ```javascript
