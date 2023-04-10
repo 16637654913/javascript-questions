@@ -45,7 +45,7 @@ Feel free to reach out to me! 😊 <br />
 ---
 ##farron's mistakes
 8
-22,23,24
+22,23,24,29
 33
 35
 38
